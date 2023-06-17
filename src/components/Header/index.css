@@ -1,0 +1,45 @@
+.popup-trigger {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.popped-container {
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  justify-content: space-between;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.close-button {
+  display: flex;
+  align-items: flex-start;
+}
+.rowed {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.i-con-home {
+  height: 30px;
+  width: 30px;
+}
+
+h1 {
+  padding-left: 20px;
+}
+.website-logo {
+  width: 50px;
+}
+.hamburger-menu {
+  width: 50px;
+  height: 50px;
+}
